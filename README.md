@@ -8,3 +8,4 @@ Includes elements such as:
 * Rendering of 2D images for GUI using quads
 * Cubemap rendering
 * Running animations
+* Camera movement and zooming 
